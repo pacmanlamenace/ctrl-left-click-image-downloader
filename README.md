@@ -6,7 +6,7 @@ A Firefox extension that downloads an image as PNG when you hold **Ctrl** and le
 
 ## Mozilla Add-ons
 
-The Mozilla Add-ons listing link will be added here as soon as the published AMO URL is confirmed.
+[Install Ctrl+Left Click Image Downloader from Mozilla Add-ons](https://addons.mozilla.org/en-US/firefox/addon/ctrl-left-click-img-downloader/)
 
 ## Features
 
