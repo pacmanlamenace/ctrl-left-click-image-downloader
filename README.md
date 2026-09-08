@@ -25,6 +25,4 @@ For temporary development installation, open `about:debugging`, choose **This Fi
 
 ## Repository status and license
 
-This is a private, proprietary repository. The software is **not open source**.
-
-Copyright © 2026. All rights reserved. See [LICENSE](LICENSE).
+Copyright © 2026 CTP (ctp@ctp.cc). All rights reserved. See [LICENSE](LICENSE).

@@ -32,4 +32,4 @@ The extension is plain, readable JavaScript with no build step, minification, re
 
 ## License
 
-Copyright © 2026. All rights reserved. This software is proprietary and is not open source. See `LICENSE`.
+Copyright © 2026 CTP (ctp@ctp.cc). All rights reserved. See `LICENSE`.
