@@ -19,7 +19,7 @@ A Firefox extension that downloads an image as PNG when you hold **Ctrl** and le
 
 ## Install
 
-The packaged extension is available at [`dist/ctrl-left-click-image-downloader-1.1.0.zip`](dist/ctrl-left-click-image-downloader-1.1.0.zip). Standard Firefox installations require a Mozilla-signed build; use the Mozilla Add-ons listing once available.
+The packaged extension is available at [`dist/ctrl-left-click-image-downloader-1.1.0.zip`](dist/ctrl-left-click-image-downloader-1.1.0.zip). For standard Firefox installations, use the signed build from the Mozilla Add-ons listing above.
 
 For temporary development installation, open `about:debugging`, choose **This Firefox**, select **Load Temporary Add-on…**, and open `extension/manifest.json`.
 
